@@ -5,7 +5,7 @@ This is an Institution Management System built with Spring Boot, featuring JWT a
 ## Features
 
 - **JWT Authentication**: Secure API access using JWT tokens.
-- **Data Storage**: Integrates H2 database for persistent data storage.
+- **Data Storage**: Integrates H2 and MySQL databases for data storage.
 - **Logging**: Implements detailed logging for monitoring and debugging.
 - **Unit Testing**: Includes unit tests for service and controller layers.
 
@@ -71,11 +71,10 @@ For more detailed information, please refer to the individual Java files in the 
 
 ## Additional Information
 
-For any further information or assistance, please feel free to contact:
+For any further information or assistance, please feel free to contact me at: 
 
-Gabriel Ghoussoub
-Email: ghoussoubgabriel@gmail.com 
-Phone: +961 81 398 752
+ghoussoubgabriel@gmail.com 
+
 
 ---
 
