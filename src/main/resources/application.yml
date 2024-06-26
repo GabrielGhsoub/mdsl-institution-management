@@ -7,3 +7,6 @@ spring:
   application:
     name: institution-management
     
+jwt:
+  secret: SMG12345
+  expiration: 18000000 # 5 hours in milliseconds

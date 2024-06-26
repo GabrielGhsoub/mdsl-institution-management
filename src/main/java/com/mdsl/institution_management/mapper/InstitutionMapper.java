@@ -1,7 +1,9 @@
-package com.mdsl.institution_management.mappers;
+package com.mdsl.institution_management.mapper;
 
 import org.apache.ibatis.annotations.*;
-import com.mdsl.institution_management.models.Institution;
+
+import com.mdsl.institution_management.model.Institution;
+
 import java.util.List;
 
 /**

@@ -1,7 +1,8 @@
-package com.mdsl.institution_management.mappers;
+package com.mdsl.institution_management.mapper;
 
 import org.apache.ibatis.annotations.*;
-import com.mdsl.institution_management.models.RefreshToken;
+
+import com.mdsl.institution_management.model.RefreshToken;
 
 /**
  * RefreshTokenMapper is an interface for MyBatis that provides methods to

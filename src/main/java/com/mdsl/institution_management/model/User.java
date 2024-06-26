@@ -1,4 +1,4 @@
-package com.mdsl.institution_management.models;
+package com.mdsl.institution_management.model;
 
 import lombok.Data;
 
@@ -13,4 +13,8 @@ public class User {
 	private String username;
 	private String password;
 	private Boolean enabled;
+
+    public boolean isEnabled() {
+        return Boolean.TRUE.equals(enabled);
+    }
 }

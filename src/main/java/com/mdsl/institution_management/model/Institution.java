@@ -1,4 +1,4 @@
-package com.mdsl.institution_management.models;
+package com.mdsl.institution_management.model;
 
 import lombok.Data;
 
